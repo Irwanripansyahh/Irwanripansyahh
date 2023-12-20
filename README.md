@@ -42,23 +42,7 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 
 
 
-
-
-
-
-
-
-
-```
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-```
 
 
-
-
-`<br/>`
-
-<br />
-
----
