@@ -98,6 +98,10 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=irwanripansyahh&&style=flat-square" align="center" />
 </div>  
+
+<p align="center">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=irwanripansyah&layout=compact">
+</p>
   
 
 <br/>  
