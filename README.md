@@ -2,9 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### `<div align="center">`Hi 👋, I'm Irwan Ripansyah
+### Hi 👋, I'm Irwan Ripansyah
 
-Passionate web developer that mainly focuses on developing a sustainable web application in order to support the business process carried by the company.`</div>`
+Passionate web developer that mainly focuses on developing a sustainable web application in order to support the business process carried by the company.
 
 Take a look my works at [here](https://irwanripansyahh.github.io/)
 
@@ -14,9 +14,7 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 
 <table><tr><td valign="top" width="33%">
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka--><br/>
+<br/>
 
 ## Connect with me
 
