@@ -39,7 +39,25 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <img src="https://komarev.com/ghpvc/?username=irwanripansyahh&&style=flat-square" align="center" />
 </div>
 
-<br/>
+
+
+
+
+
+
+
+
+
+
+```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
+
+
+
+`<br/>`
 
 <br />
 
