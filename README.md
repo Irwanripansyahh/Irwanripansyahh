@@ -109,6 +109,11 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 
 <br />
 <!--START_SECTION:waka-->
+
+```txt
+YAML   8 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ----
