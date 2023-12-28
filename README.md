@@ -111,8 +111,7 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    17 mins         ████████████████▓░░░░░░░░   66.30 %
-YAML   8 mins          ████████▒░░░░░░░░░░░░░░░░   33.70 %
+PHP   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
