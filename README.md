@@ -109,11 +109,11 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              4 hrs 14 mins   ██████████████████░░░░░░░   72.28 %
-Blade Template   1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-JavaScript       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Bash             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP              4 hrs 2 mins    ████████████████▓░░░░░░░░   66.87 %
+Blade Template   1 hr 39 mins    ███████░░░░░░░░░░░░░░░░░░   27.34 %
+Bash             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+JavaScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
