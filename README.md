@@ -109,7 +109,9 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blade Template   1 min           ███████████████████████░░   92.39 %
+JSON             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Other            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
