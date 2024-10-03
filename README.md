@@ -109,8 +109,8 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 11 mins    ████████████████████████▓   98.50 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JavaScript   40 mins         ████████████████████████▒   97.36 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
