@@ -109,8 +109,7 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              27 mins         ██████████████████████▓░░   91.21 %
-Blade Template   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Blade Template   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
