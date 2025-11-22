@@ -109,8 +109,7 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   32 mins         █████████████▓░░░░░░░░░░░   55.07 %
-HTML         26 mins         ███████████▒░░░░░░░░░░░░░   44.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
