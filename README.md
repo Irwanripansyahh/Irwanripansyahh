@@ -109,8 +109,7 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    15 mins         ████████████████████████▓   98.40 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
