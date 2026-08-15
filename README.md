@@ -109,10 +109,9 @@ Take a look my works at [here](https://irwanripansyahh.github.io/)
 <!--START_SECTION:waka-->
 
 ```txt
-Vue     26 mins               ████████████████▓░░░░░░░░   66.22 %
-PHP     12 mins               ████████░░░░░░░░░░░░░░░░░   32.47 %
-Bash    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP    11 mins               ██████████████████▓░░░░░░   74.66 %
+Vue    3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+Bash   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
